@@ -6,6 +6,8 @@
 ---
 🎓 東京工科大学 コンピュータサイエンス学部 先進情報専攻, CDSL(Cloud Distributed System Laboratory) 所属.<br>
 🎓 CDSL(Cloud Distributed System Laboratory) in School of Computer Science, Tokyo University of Technology. <br>
+
+I want to be a cloud/infrastructure engineer.
 <br>
 
 ### ・Status
