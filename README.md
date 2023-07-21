@@ -21,6 +21,9 @@
 ### - Links
 // 後ほど記入.
 
+- Qiita
+- Twitter
+あとなんかあれば...
 <!--
 **nissy-code/nissy-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
