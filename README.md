@@ -21,10 +21,10 @@ I want to be a cloud/infrastructure engineer.
 
 
 ### - Links
-// 後ほど記入.
 
 - Qiita [@Nissy924](https://qiita.com/Nissy924)
 - My Technical Report [B3(3rd year university Student)](https://drive.google.com/file/d/1Na8CyDIZZYvxRUihPONtDgVll_EphKLD/view)
+- Open Badge [My Wallet)]([https://drive.google.com/file/d/1Na8CyDIZZYvxRUihPONtDgVll_EphKLD/view](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/QmJvK0REZ1F6dVpJT2ZXaHhPRXdkZz09))
 <!--
 **nissy-code/nissy-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
