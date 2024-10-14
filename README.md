@@ -23,7 +23,7 @@ I want to be a cloud/infrastructure engineer.
 ### - Links
 
 - CDSL MyProfile [Katsumi NISHIMURA](https://ja.tak-cslab.org/archives/author/katsumi-nishimura)
-- My Technical Report [B3(3rd year university Student)](https://drive.google.com/file/d/1Na8CyDIZZYvxRUihPONtDgVll_EphKLD/view)
+- My Technical Report [B3(3rd year university Student)](https://drive.google.com/file/d/1Na8CyDIZZYvxRUihPONtDgVll_EphKLD/view)[B4(4th year university Student)](https://drive.google.com/file/d/170xCZS1TRPPR2kuERsFaVfMT0WXBlUbA/view?usp=sharing)
 - Qiita [@Nissy924](https://qiita.com/Nissy924)
 - Open Badge [My Wallet](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/QmJvK0REZ1F6dVpJT2ZXaHhPRXdkZz09)
 <!--
